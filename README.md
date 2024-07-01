@@ -11,3 +11,5 @@ MS-DOS Is Copyright/Owned By Microsoft, I Don't Claim That I Own Anything To Do 
 ### This Is A Legacy Technology, And Will Be Phased Out By 01/01/2025.
 
 (Also, I Lost The Source Code 😭)
+
+Static Files Recovered (Help Docs, Change Logs, Etc.)
